@@ -8,7 +8,8 @@ public class Main {
         int n=0;
         ArrayList v= new ArrayList();
 
-
+		// Look I made a change
+		
         Dice d = new Dice();
         while (n < 100) {
             v.add(d.roll());
