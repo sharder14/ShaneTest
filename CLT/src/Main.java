@@ -8,7 +8,9 @@ public class Main {
         int n=0;
         ArrayList v= new ArrayList();
 
-
+		// Look I made a change
+		//New Change push through commandline please
+		
         Dice d = new Dice();
         while (n < 100) {
             v.add(d.roll());
